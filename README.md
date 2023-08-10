@@ -8,7 +8,3 @@ https://ionmateus.github.io/formulario-azul/
 
 ## Dados
 * Feito com HTML e CSS
-
-## Imagens
-<img src="https://raw.githubusercontent.com/IonMateus/formulario-azul/main/ReadmeImages/form.png"/> 
-Formulário <br> <br>  <br>
